@@ -1,0 +1,17 @@
+{
+  "AppDirectoryName": "",
+  "AppExecutableName": "",
+  "OutputFileName": "",
+  "AssemblyName": "",
+  "RuntimeIdentifier": "win-x64",
+  "DistDir": "dist",
+  "PayloadItems": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
